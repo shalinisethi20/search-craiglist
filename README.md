@@ -19,6 +19,6 @@ To run this project:
 You need some tool to test RestAPI. We can use postman to test this Restful API.
 Once your application is up and running.
 Use postman to send Get request to following URL:
- to See available type you can use to search on Craiglist: http://localhost:8082//api/v1/search
+ to See available type you can use to search on Craiglist: http://localhost:8082/api/v1/search
  based on type you can search as follows:
- for example to search an appartment: http://localhost:8082//api/v1/search/apartment
+ for example to search an appartment: http://localhost:8082/api/v1/search/apartment
