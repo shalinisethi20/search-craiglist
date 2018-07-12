@@ -22,3 +22,9 @@ Use postman to send Get request to following URL:
  to See available type you can use to search on Craiglist: http://localhost:8082/api/v1/search
  based on type you can search as follows:
  for example to search an appartment: http://localhost:8082/api/v1/search/apartment
+
+Architecture:
+
+![untitled diagram](https://user-images.githubusercontent.com/29939793/42653043-306b3190-85e2-11e8-8406-94b835527b79.jpg)
+
+A request can be send through Angular App or by basic Web app to Controller through API gateway
